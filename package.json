@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/feibi/testgit/issues"
   },
-  "homepage": "https://github.com/feibi/testgit#readme"
+  "homepage": "https://github.com/feibi/testgit#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-svg-sprite": "^1.3.3"
+  }
 }
